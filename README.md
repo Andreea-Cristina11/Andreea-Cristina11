@@ -16,7 +16,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   ---
-  ### 👩‍💻: About Me: Aspiring Data Engineer with a keen sense of curiosity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student at University Politehnica of Bucharest.
+  
+  ### 👩‍💻: About Me: Aspiring Data Engineer with a keen sense of curiosity /student at University Politehnica of Bucharest.
 </div>
 
 <!--
