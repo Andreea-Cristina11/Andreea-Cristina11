@@ -19,11 +19,12 @@
 
 ---
   
-  ### 👩‍💻: About Me: 
+  ### 👩‍💻 About Me: 
   Aspiring Data Engineer with a keen sense of curiosity 
   - 🏢 I'm currently a student at University Politehnica of Bucharest
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/andreea-cristina-bobe-86b615226/overlay/contact-info/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  - 📚 Continuously enhance my skills in programming, data management, ML, AI and cloud tech
+  - ⚡ In my free time, I travel and enjoy reading 
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/andreea-cristina-bobe-86b615226/overlay/contact-info/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 <!--
