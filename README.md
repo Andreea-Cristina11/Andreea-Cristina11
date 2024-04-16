@@ -14,6 +14,7 @@
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Aspiring Data Engineer with a keen sense of curiosity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student at University Politehnica of Bucharest.
 </h1>
 </div>
 
