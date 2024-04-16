@@ -17,7 +17,10 @@
 </h1>
   ---
   
-  ### 👩‍💻: About Me: Aspiring Data Engineer with a keen sense of curiosity /student at University Politehnica of Bucharest.
+  ### 👩‍💻: About Me: 
+  Aspiring Data Engineer with a keen sense of curiosity 
+  - 🏢 I'm currently a student at University Politehnica of Bucharest
+  - 📫 How to reach me: https://www.linkedin.com/in/andreea-cristina-bobe-86b615226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOMiLdyBrQfCP%2F4I%2BNpAltA%3D%3D
 </div>
 
 <!--
