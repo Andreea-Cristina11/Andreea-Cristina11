@@ -15,13 +15,16 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  ---
+</div>
+
+---
   
   ### 👩‍💻: About Me: 
   Aspiring Data Engineer with a keen sense of curiosity 
   - 🏢 I'm currently a student at University Politehnica of Bucharest
-  - 📫 How to reach me: https://www.linkedin.com/in/andreea-cristina-bobe-86b615226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOMiLdyBrQfCP%2F4I%2BNpAltA%3D%3D
-</div>
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/andreea-cristina-bobe-86b615226/overlay/contact-info/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <!--
 **Andreea-Cristina11/Andreea-Cristina11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
