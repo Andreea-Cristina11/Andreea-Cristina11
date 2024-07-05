@@ -21,7 +21,7 @@
   
 ### 👩‍💻 About Me: 
 Aspiring Data Engineer with a keen sense of curiosity 
-  - 🏢 I'm currently a student at University Politehnica of Bucharest, Faculty of Engineering in Foreign Languages
+  - 🏢 I graduated University Politehnica of Bucharest, Faculty of Engineering in Foreign Languages
   - 🎓 Specializing in Information Engineering within the Computers and Information Technology domain
   - 📚 Continuously enhance my skills in programming, data management, ML, AI and cloud tech
   - ⚡ In my free time, I travel and enjoy reading 
